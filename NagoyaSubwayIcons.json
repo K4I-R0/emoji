@@ -1,38 +1,38 @@
 {
   "name": "NagoyaSubwayIcons",
-  "version": "1.0",
+  "version": "1.1",
   "description": "名古屋市営地下鉄の路線記号",
   "credit": "",
-  "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Nagoya_Subway_Logo_%28black%29.svg/552px-Nagoya_Subway_Logo_%28black%29.svg.png",
+  "iconURL": "https://github.com/K4I-R0/emoji/blob/main/552px-Nagoya_Subway_Logo_(black).svg.png?raw=true",
   "emojis": [
     {
       "shortcode": "higashiyama_line",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Nagoya_Subway_Logo_V2_%28Higashiyama_Line%29.svg/480px-Nagoya_Subway_Logo_V2_%28Higashiyama_Line%29.svg.png",
+      "imageURL": "https://github.com/K4I-R0/emoji/blob/main/480px-Nagoya_Subway_Logo_V2_(Higashiyama_Line).svg.png?raw=true",
       "aliases": ["higashiyamasen"]
     },
     {
       "shortcode": "meijo_line",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nagoya_Subway_Logo_V2_%28Meijo_Line%29.svg/480px-Nagoya_Subway_Logo_V2_%28Meijo_Line%29.svg.png",
+      "imageURL": "https://github.com/K4I-R0/emoji/blob/main/480px-Nagoya_Subway_Logo_V2_(Meijo_Line).svg.png?raw=true",
       "aliases": ["meijosen"]
     },
     {
       "shortcode": "meiko_line",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nagoya_Subway_Logo_V2_%28Meiko_Line%29.svg/480px-Nagoya_Subway_Logo_V2_%28Meiko_Line%29.svg.png",
+      "imageURL": "https://github.com/K4I-R0/emoji/blob/main/480px-Nagoya_Subway_Logo_V2_(Meiko_Line).svg.png?raw=true",
       "aliases": ["meikosen"]
     },
     {
       "shortcode": "tsurumai_line", 
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nagoya_Subway_Logo_V2_%28Tsurumai_Line%29.svg/480px-Nagoya_Subway_Logo_V2_%28Tsurumai_Line%29.svg.png", 
+      "imageURL": "https://raw.githubusercontent.com/K4I-R0/emoji/main/480px-Nagoya_Subway_Logo_V2_(Tsurumai_Line).svg.png", 
       "aliases": ["tsurumaisen"]
     },
     {
       "shortcode": "sakuradori_line", 
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Nagoya_Subway_Logo_V2_%28Sakura-dori_Line%29.svg/480px-Nagoya_Subway_Logo_V2_%28Sakura-dori_Line%29.svg.png", 
+      "imageURL": "https://github.com/K4I-R0/emoji/blob/main/480px-Nagoya_Subway_Logo_V2_(Sakura-dori_Line).svg.png?raw=true", 
       "aliases": ["sakuradorisen"]
     },
     {
       "shortcode": "kamiiida_line", 
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Nagoya_Subway_Logo_V2_%28Kamiiida_Line%29.svg/480px-Nagoya_Subway_Logo_V2_%28Kamiiida_Line%29.svg.png", 
+      "imageURL": "https://github.com/K4I-R0/emoji/blob/main/480px-Nagoya_Subway_Logo_V2_(Kamiiida_Line).svg.png?raw=true", 
       "aliases": ["kamiiidasen"]
     }
   ]
