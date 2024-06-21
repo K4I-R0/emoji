@@ -1,0 +1,39 @@
+{
+  "name": "NagoyaSubwayIcons", // 絵文字パック名
+  "version": "1.0", // 絵文字パックのバージョン
+  "description": "名古屋市営地下鉄の路線記号", // 絵文字パックの説明
+  "credit": "", // 絵文字の著作権やライセンスの情報など 
+  "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Nagoya_Subway_Logo_%28black%29.svg/552px-Nagoya_Subway_Logo_%28black%29.svg.png", // 絵文字パックのアイコン
+  "emojis": [
+    { // 1つ目の絵文字
+      "shortcode": "higashiyama_line", // 絵文字のショートコード(`:`を除いた部分)
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Nagoya_Subway_Logo_V2_%28Higashiyama_Line%29.svg/480px-Nagoya_Subway_Logo_V2_%28Higashiyama_Line%29.svg.png", // 絵文字の実体となる画像ファイル
+      "aliases": ["higashiyamasen"] // 絵文字のエイリアス(別名: 絵文字を検索する際のキーワード)
+    },
+    { // 2つ目の絵文字
+      "shortcode": "meijo_line", // 絵文字のショートコード(`:`を除いた部分)
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nagoya_Subway_Logo_V2_%28Meijo_Line%29.svg/480px-Nagoya_Subway_Logo_V2_%28Meijo_Line%29.svg.png", // 絵文字の実体となる画像ファイル
+      "aliases": ["meijosen"] // 絵文字のエイリアス(別名: 絵文字を検索する際のキーワード)
+    },
+    { // 3つ目の絵文字
+      "shortcode": "meiko_line", // 絵文字のショートコード(`:`を除いた部分)
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nagoya_Subway_Logo_V2_%28Meiko_Line%29.svg/480px-Nagoya_Subway_Logo_V2_%28Meiko_Line%29.svg.png", // 絵文字の実体となる画像ファイル
+      "aliases": ["meikosen"] // 絵文字のエイリアス(別名: 絵文字を検索する際のキーワード)
+    },
+    {
+      "shortcode": "tsurumai_line", 
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nagoya_Subway_Logo_V2_%28Tsurumai_Line%29.svg/480px-Nagoya_Subway_Logo_V2_%28Tsurumai_Line%29.svg.png", 
+      "aliases": ["tsurumaisen"]
+    },
+    {
+      "shortcode": "sakuradori_line", 
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Nagoya_Subway_Logo_V2_%28Sakura-dori_Line%29.svg/480px-Nagoya_Subway_Logo_V2_%28Sakura-dori_Line%29.svg.png", 
+      "aliases": ["sakuradorisen"]
+    },
+    {
+      "shortcode": "kamiiida_line", 
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Nagoya_Subway_Logo_V2_%28Kamiiida_Line%29.svg/480px-Nagoya_Subway_Logo_V2_%28Kamiiida_Line%29.svg.png", 
+      "aliases": ["kamiiidasen"]
+    }
+  ]
+}
