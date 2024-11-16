@@ -1,0 +1,39 @@
+{
+  "name": "K4IRO Emojis",
+  "version": "1.0",
+  "description": "かいろが作った絵文字が入る予定",
+  "credit": "",
+  "iconURL": "https://github.com/K4I-R0/emoji/blob/main/k4ir0emojis/kairo.png?raw=true",
+  "emojis": [
+    {
+      "shortcode": "k4ir0",
+      "imageURL": "https://github.com/K4I-R0/emoji/blob/main/k4ir0emojis/kairo.png?raw=true",
+      "aliases": ["かいろ"]
+    },
+    {
+      "shortcode": "k4ir0_jito",
+      "imageURL": "https://github.com/K4I-R0/emoji/blob/main/k4ir0emojis/kairo_jito.png?raw=true",
+      "aliases": ["じと"]
+    },
+    {
+      "shortcode": "k4ir0_nagomi",
+      "imageURL": "https://github.com/K4I-R0/emoji/blob/main/k4ir0emojis/kairo_nagomi.png?raw=true",
+      "aliases": ["なごみ"]
+    },
+    {
+      "shortcode": "k4ir0_naku", 
+      "imageURL": "https://github.com/K4I-R0/emoji/blob/main/k4ir0emojis/kairo_naku.png?raw=true", 
+      "aliases": ["泣く"]
+    },
+    {
+      "shortcode": "k4ir0_niko", 
+      "imageURL": "https://github.com/K4I-R0/emoji/blob/main/k4ir0emojis/kairo_niko.png?raw=true", 
+      "aliases": ["にこ"]
+    },
+    {
+      "shortcode": "dekai", 
+      "imageURL": "https://github.com/K4I-R0/emoji/blob/main/k4ir0emojis/big.png?raw=true", 
+      "aliases": ["デカい"]
+    }
+  ]
+}
