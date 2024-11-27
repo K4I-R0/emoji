@@ -1,6 +1,6 @@
 {
   "name": "K4IRO Emojis",
-  "version": "1.0",
+  "version": "1.1",
   "description": "かいろが作った絵文字が入る予定",
   "credit": "",
   "iconURL": "https://github.com/K4I-R0/emoji/blob/main/k4ir0emojis/kairo.png?raw=true",
@@ -39,5 +39,6 @@
       "shortcode": "petthex_k4ir0",
       "imageURL": "https://storage.fluffy.social/files/5f4d9d72-edc9-4fa6-b9fe-9e5f9aae99c2.gif"
       "aliases": ["なで"]
+    }
   ]
 }
