@@ -31,14 +31,19 @@
       "aliases": ["にこ"]
     },
     {
+      "shortcode": "petthex_k4ir0",
+      "imageURL": "https://storage.fluffy.social/files/5f4d9d72-edc9-4fa6-b9fe-9e5f9aae99c2.gif",
+      "aliases": ["なで"]
+    },
+        {
       "shortcode": "dekai", 
       "imageURL": "https://github.com/K4I-R0/emoji/blob/main/k4ir0emojis/big.png?raw=true", 
       "aliases": ["デカい"]
     },
-    {
-      "shortcode": "petthex_k4ir0",
-      "imageURL": "https://storage.fluffy.social/files/5f4d9d72-edc9-4fa6-b9fe-9e5f9aae99c2.gif",
-      "aliases": ["なで"]
+        {
+      "shortcode": "akeome", 
+      "imageURL": "https://github.com/K4I-R0/emoji/blob/main/k4ir0emojis/akeome.png?raw=true", 
+      "aliases": ["あけおめ"]
     }
   ]
 }
