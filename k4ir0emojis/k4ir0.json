@@ -44,6 +44,11 @@
       "shortcode": "akeome", 
       "imageURL": "https://github.com/K4I-R0/emoji/blob/main/k4ir0emojis/akeome2.png?raw=true", 
       "aliases": ["あけおめ"]
+    },
+        {
+      "shortcode": "conk4ir0", 
+      "imageURL": "https://github.com/K4I-R0/emoji/blob/main/k4ir0emojis/conk4ir0.png?raw=true", 
+      "aliases": ["コンかいろ"]
     }
   ]
 }
